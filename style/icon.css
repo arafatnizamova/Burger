@@ -1,0 +1,12 @@
+.fa-map-signs::before{
+    content: '\f277';
+    font-weight: 300;
+}
+.icon-menu::before{
+    content: '\f0c9';
+    font-weight: 300;
+}
+.fa-cart-plus::before{
+    content: '\f217';
+    font-weight: 300;
+}
